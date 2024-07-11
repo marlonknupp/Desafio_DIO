@@ -10,4 +10,4 @@ phone_number = input('\n Digite um numero de telefone:')
 
 validate_numero_telefone(phone_number)
 
-#DIO.
+#DIO...
