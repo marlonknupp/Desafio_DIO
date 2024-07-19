@@ -9,3 +9,4 @@ for item in itens:
   print (f'- {item}')
 
   #DIO.
+  #DIO
