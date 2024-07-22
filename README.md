@@ -1,2 +1,2 @@
-# Desafio_DIO
+# DESAFIOS_DIO
 Alguns aprendizados da plataforma de cursos DIO
