@@ -17,6 +17,6 @@ def recomendar_plano():
 plano = recomendar_plano()
 print(f' {plano}')
 
-#DIO.
+#DIO..
     
   
